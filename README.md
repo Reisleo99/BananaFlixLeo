@@ -13,8 +13,8 @@ The platform integrates TMDB's extensive movie database with modern, user-friend
   * [License](#license)
   * [Credits](#credits)
 ## Installation: 
-  For a live demo of this project, you can just find it here:
-  https://bananaflix.onrender.com/
+  For a live demo of this project, you can find it here:
+  https://bananaflixleo.onrender.com/
   <br/>The following steps will allow you to run the code locally:
   <br/>Step 0: This project requires several API keys to function properly, navigate to the following, register, and create a key:
   <br/>Step 0: TMDB Movie API: https://developer.themoviedb.org/reference/intro/getting-started
